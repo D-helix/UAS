@@ -1,1 +1,5 @@
-CKEDITOR.plugins.setLang("bidi","pl",{ltr:"Kierunek tekstu od lewej strony do prawej",rtl:"Kierunek tekstu od prawej strony do lewej"});
+/*
+ Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
+ For licensing, see LICENSE.md or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.setLang("codesnippet","pl",{button:"Wstaw fragment kodu",codeContents:"Treść kodu",emptySnippetError:"Kod nie może być pusty.",language:"Język",title:"Fragment kodu",pathName:"fragment kodu"});

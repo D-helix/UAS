@@ -1,1 +1,5 @@
-CKEDITOR.plugins.setLang("bidi","pt",{ltr:"Direção do texto da esquerda para a direita",rtl:"Direção do texto da direita para a esquerda"});
+/*
+ Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
+ For licensing, see LICENSE.md or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.setLang("codesnippet","pt",{button:"Inserir fragmento de código",codeContents:"Code content",emptySnippetError:"A code snippet cannot be empty.",language:"Idioma",title:"Segmento de código",pathName:"Fragmento de código"});
