@@ -1,1 +1,5 @@
-CKEDITOR.plugins.setLang("autoembed","eo",{embeddingInProgress:"Provas enkorpigi la algluitan URL ...",embeddingFailed:"Ne eblis enkorpigi aŭtomate tiun URL."});
+/*
+ Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
+ For licensing, see LICENSE.md or http://ckeditor.com/license
+*/
+CKEDITOR.plugins.setLang("codesnippet","eo",{button:"Enmeti kodaĵeron",codeContents:"Kodenhavo",emptySnippetError:"Kodaĵero ne povas esti malplena.",language:"Lingvo",title:"Kodaĵero",pathName:"kodaĵero"});

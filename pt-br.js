@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","pt-br",{embeddingInProgress:"Tentando embutir a URL colada...",embeddingFailed:"Esta URL não pode ser embutida automaticamente."});
+CKEDITOR.plugins.setLang("bidi","pt-br",{ltr:"Direção do texto da esquerda para a direita",rtl:"Direção do texto da direita para a esquerda"});

@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","uk",{embeddingInProgress:"Намагаюсь вбудувати вставлене URL посилання...",embeddingFailed:"Це URl посилання не може бути автоматично вбудовано."});
+CKEDITOR.plugins.setLang("bidi","uk",{ltr:"Напрямок тексту зліва направо",rtl:"Напрямок тексту справа наліво"});

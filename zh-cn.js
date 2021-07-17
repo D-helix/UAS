@@ -1,1 +1,1 @@
-CKEDITOR.plugins.setLang("autoembed","zh-cn",{embeddingInProgress:"正在尝试嵌入粘贴的 URL 里的媒体内容...",embeddingFailed:"此 URL 无法自动嵌入媒体内容。"});
+CKEDITOR.plugins.setLang("bidi","zh-cn",{ltr:"文字方向为从左至右",rtl:"文字方向为从右至左"});
